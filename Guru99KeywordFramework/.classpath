@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="POI/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="POI/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="POI/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="POI/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/poi-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/poi-examples-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/poi-excelant-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/poi-ooxml-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/poi-ooxml-schemas-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/poi-scratchpad-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/selenium web/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
